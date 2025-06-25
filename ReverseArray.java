@@ -27,6 +27,9 @@ public class ReverseArray {
         }
     }
 
+    //OUTPUT:
+//Original Array: 6 7 8 9 10     
+//Reversed Array: 10 9 8 7 6
     // Function to print array
     public static void printArray(int[] arr) {
         for (int num : arr) {
