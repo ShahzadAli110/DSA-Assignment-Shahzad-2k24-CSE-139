@@ -26,11 +26,6 @@ public class ReverseArray {
             arr[i] = stack.pop();
         }
     }
-
-    //OUTPUT:
-//Original Array: 6 7 8 9 10     
-//Reversed Array: 10 9 8 7 6
-    // Function to print array
     public static void printArray(int[] arr) {
         for (int num : arr) {
             System.out.print(num + " ");
@@ -38,3 +33,7 @@ public class ReverseArray {
         System.out.println();
     }
 }
+ //OUTPUT:
+//Original Array: 6 7 8 9 10     
+//Reversed Array: 10 9 8 7 6
+    // Function to print array
