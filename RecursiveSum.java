@@ -1,6 +1,6 @@
 public class RecursiveSum {
     public static void main(String[] args) {
-        int[] numbers = {5, 10, 15, 20, 25};
+        int[] numbers = {3, 6, 9, 12, 15};
         int total = sum(numbers, 0);
         System.out.println("Sum of array elements: " + total);
     }
@@ -12,3 +12,7 @@ public class RecursiveSum {
         return arr[index] + sum(arr, index + 1);
     }
 }
+
+//OUTPUT:
+// Array: 3 6 9 12 15 
+// Sum of elements: 45
