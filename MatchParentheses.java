@@ -41,3 +41,6 @@ public class MatchParentheses {
                (open == '[' && close == ']');
     }
 }
+
+//OUTPUT = ((a+b)*[c/d])
+// Balanced True
