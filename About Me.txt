@@ -1,0 +1,5 @@
+Name:Shahzad
+Roll No: CSE/2K24/139
+Dep:Computer Science Pre-Eng
+Subject:DSA
+Teacher:Sir Gulsher Laghari
